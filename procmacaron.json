@@ -10072,5 +10072,989 @@
     "kilkist_yader": 12,
     "maksimalnaya_chastota_processora": 4.9,
     "bazova_chastota_procesora": 1.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N100",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N200",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.7,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U300",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N97",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.6,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U300E",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Processor 300",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Processor 300T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U300L",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U302L",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 2.4,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U303L",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 2.6,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel U U301L",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 2.2,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N150",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.6,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N250",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel N N95",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6740E",
+    "kilkist_yader": 96,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6756E",
+    "kilkist_yader": 128,
+    "maksimalnaya_chastota_processora": 2.6,
+    "bazova_chastota_procesora": 1.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6780E",
+    "kilkist_yader": 144,
+    "maksimalnaya_chastota_processora": 3,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6710E",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6766E",
+    "kilkist_yader": 144,
+    "maksimalnaya_chastota_processora": 2.7,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6731E",
+    "kilkist_yader": 96,
+    "maksimalnaya_chastota_processora": 3.1,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6746E",
+    "kilkist_yader": 112,
+    "maksimalnaya_chastota_processora": 2.7,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6960P",
+    "kilkist_yader": 72,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6980P",
+    "kilkist_yader": 128,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6979P",
+    "kilkist_yader": 120,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6966P C",
+    "kilkist_yader": 96,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 3.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6972P",
+    "kilkist_yader": 96,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6333P",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 3.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6315P",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 2.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6325P",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6357P",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.4,
+    "bazova_chastota_procesora": 3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6353P",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.4,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6349P",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5.7,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6337P",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5.3,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6369P",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.7,
+    "bazova_chastota_procesora": 3.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6952P",
+    "kilkist_yader": 96,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6747P",
+    "kilkist_yader": 48,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6741P",
+    "kilkist_yader": 48,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6730P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6781P",
+    "kilkist_yader": 80,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6760P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6788P",
+    "kilkist_yader": 86,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6740P",
+    "kilkist_yader": 48,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6768P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6761P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6787P",
+    "kilkist_yader": 86,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6767P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6737P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 2.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6738P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 2.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6521P",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6731P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6530P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6748P",
+    "kilkist_yader": 48,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6736P",
+    "kilkist_yader": 36,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6520P",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6732P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 3.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6527P",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6728P",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6517P",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6511P",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6505P",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6507P",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6515P",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6724P",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6714P",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6944P",
+    "kilkist_yader": 72,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 1.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6726P B",
+    "kilkist_yader": 42,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6503P B",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6516P B",
+    "kilkist_yader": 20,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6533P B",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6523P B",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6546P B",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6543P B",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 3.3,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6553P B",
+    "kilkist_yader": 36,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 2.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6706P B",
+    "kilkist_yader": 40,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6563P B",
+    "kilkist_yader": 38,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6556P B",
+    "kilkist_yader": 36,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6716P B",
+    "kilkist_yader": 40,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6513P B",
+    "kilkist_yader": 20,
+    "maksimalnaya_chastota_processora": 3.3,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6745P",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 3.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6776P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6774P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6532P B",
+    "kilkist_yader": 32,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6962P",
+    "kilkist_yader": 72,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6978P",
+    "kilkist_yader": 120,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6725P",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 3.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Xeon 6762P",
+    "kilkist_yader": 64,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 2.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 5305U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.3,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 5205U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.9,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 6305E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.8,
+    "bazova_chastota_procesora": 1.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 6305",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.8,
+    "bazova_chastota_procesora": 1.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 6600HE",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.6,
+    "bazova_chastota_procesora": 2.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 7305",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 7305E",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 1,
+    "bazova_chastota_procesora": 1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron 7305L",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N3350E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.4,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J3455E",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2.3,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J3355E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J4125",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J4025",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N4120",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N4020",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5900",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5900T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5920",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5905T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.3,
+    "bazova_chastota_procesora": 3.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5925",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.6,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5905",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5900TE",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3,
+    "bazova_chastota_procesora": 3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G5900E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N6211",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.2,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J6413",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.8,
+    "bazova_chastota_procesora": 1.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N4505",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N4500",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N5105",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N5100",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N6210",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.2,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron J6412",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G6900",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G6900T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.8,
+    "bazova_chastota_procesora": 2.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G6900TE",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.4,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron G6900E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.1,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 4415Y",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.6,
+    "bazova_chastota_procesora": 1.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver J5005",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.5,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver N5000",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5600",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.9,
+    "bazova_chastota_procesora": 3.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5500",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 3.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5500T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5400T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.1,
+    "bazova_chastota_procesora": 3.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5400",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.7,
+    "bazova_chastota_procesora": 3.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5600T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.3,
+    "bazova_chastota_procesora": 3.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5420T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5420",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 3.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G5620",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 4417U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.3,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 5405U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.3,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 4425Y",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.7,
+    "bazova_chastota_procesora": 1.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G7400E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.6,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G7400TE",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3,
+    "bazova_chastota_procesora": 3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver J5040",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver N5030",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 6405U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.4,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6600",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6500T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6500",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 4.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6400",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4,
+    "bazova_chastota_procesora": 4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6400T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6405T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6405",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 4.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6505",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4.2,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6505T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.6,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6605",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 4.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6400TE",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.2,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G6400E",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.8,
+    "bazova_chastota_procesora": 3.8
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 7505",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": ""
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver N6005",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Silver N6000",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 1.1,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 6500Y",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.4,
+    "bazova_chastota_procesora": 1.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G7400",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.7,
+    "bazova_chastota_procesora": 3.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold G7400T",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.1,
+    "bazova_chastota_procesora": 3.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 8505",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 8505",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 8500",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 4415U",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 2.3,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Pentium Gold 4410Y",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 1.5,
+    "bazova_chastota_procesora": 1.5
   }
 ]
