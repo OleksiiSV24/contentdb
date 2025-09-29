@@ -11056,5 +11056,17 @@
     "kilkist_yader": 2,
     "maksimalnaya_chastota_processora": 1.5,
     "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N5095",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2.9,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Celeron N5095A",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 2.9,
+    "bazova_chastota_procesora": 2
   }
 ]
