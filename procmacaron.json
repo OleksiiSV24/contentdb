@@ -11074,5 +11074,239 @@
     "kilkist_yader": 4,
     "maksimalnaya_chastota_processora": 2.9,
     "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 HX PRO 475",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 HX PRO 470",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 PRO 465",
+    "kilkist_yader": 10,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 7 PRO 450",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 5 PRO 440",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 5 PRO 435",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 HX 475",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 HX 470",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 5.2,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 9 465",
+    "kilkist_yader": 10,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 7 450",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 7 445",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 5 435",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI Max+ 392",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI Max+ 388",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 170",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.75,
+    "bazova_chastota_procesora": 3.2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 160",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.75,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 150",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.55,
+    "bazova_chastota_procesora": 3.3
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 130",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.55,
+    "bazova_chastota_procesora": 2.9
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 110",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 3
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 40",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 2.8
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 30",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.1,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Athlon Gold 20",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.7,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Athlon Silver 10",
+    "kilkist_yader": 2,
+    "maksimalnaya_chastota_processora": 3.5,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 9850X3D",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.6,
+    "bazova_chastota_procesora": 4.7
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 PRO 8705GE",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 3.6
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 PRO 8705G",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 PRO 8605GE",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.9
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 PRO 8605G",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 4.3
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 PRO 8505GE",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 PRO 8505G",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 PRO 8305GE",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 PRO 8305G",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 7 8705G",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 8605G",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 4.3
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 8505GE",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 8505G",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 8305GE",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 3.5
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 3 8305G",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 3.4
+  },
+  {
+    "seriya_procesora | model_procesora": "AMD Ryzen 5 7500X3D",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.5,
+    "bazova_chastota_procesora": 4
   }
 ]
