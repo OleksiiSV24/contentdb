@@ -186,6 +186,12 @@
     "bazova_chastota_procesora": 2
   },
   {
+    "seriya_procesora | model_procesora": "AMD Ryzen AI 5 430",
+    "kilkist_yader": 4,
+    "maksimalnaya_chastota_processora": 4.5,
+    "bazova_chastota_procesora": 2
+  },
+  {
     "seriya_procesora | model_procesora": "AMD Ryzen AI 5 330",
     "kilkist_yader": 4,
     "maksimalnaya_chastota_processora": 4.5,
