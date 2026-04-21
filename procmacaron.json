@@ -9834,6 +9834,12 @@
     "bazova_chastota_procesora": 2.9
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 9 386H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core Ultra 5 235H",
     "kilkist_yader": 14,
     "maksimalnaya_chastota_processora": 5,
