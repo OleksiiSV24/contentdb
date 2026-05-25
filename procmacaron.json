@@ -7344,6 +7344,12 @@
     "bazova_chastota_procesora": 2.5
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core 7 350",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4,8,
+    "bazova_chastota_procesora": 1,5
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core 5 220H",
     "kilkist_yader": 12,
     "maksimalnaya_chastota_processora": 4.9,
