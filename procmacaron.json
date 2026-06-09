@@ -7782,6 +7782,12 @@
     "bazova_chastota_procesora": 2.6
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core i7 13645HX",
+    "kilkist_yader": 14,
+    "maksimalnaya_chastota_processora": 4.9,
+    "bazova_chastota_procesora": 2.6
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core i5 1350P",
     "kilkist_yader": 12,
     "maksimalnaya_chastota_processora": 4.7,
