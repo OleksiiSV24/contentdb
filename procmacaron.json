@@ -10098,6 +10098,90 @@
     "bazova_chastota_procesora": 1.7
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core Ultra X7 368H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra X9 388H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra X7 358H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 366H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 338H",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 4.7,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 356H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 4.7,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 336H",
+    "kilkist_yader": 12,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 1.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 365",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 322",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 332",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 2.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 325",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.5,
+    "bazova_chastota_procesora": 2.1
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 355",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.7,
+    "bazova_chastota_procesora": 2.3
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 335",
+    "kilkist_yader": 8,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 2.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra X9 378H",
+    "kilkist_yader": 16,
+    "maksimalnaya_chastota_processora": 5,
+    "bazova_chastota_procesora": 2
+  },
+  {
     "seriya_procesora | model_procesora": "Intel N N100",
     "kilkist_yader": 4,
     "maksimalnaya_chastota_processora": 3.4,
