@@ -9942,6 +9942,12 @@
     "bazova_chastota_procesora": 2.6
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 270K Plus",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 5.5,
+    "bazova_chastota_procesora": 3.7
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core Ultra 5 245HX",
     "kilkist_yader": 14,
     "maksimalnaya_chastota_processora": 5.1,
