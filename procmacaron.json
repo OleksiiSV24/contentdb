@@ -9732,6 +9732,36 @@
     "bazova_chastota_procesora": 2.2
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 250KF Plus",
+    "kilkist_yader": 18,
+    "maksimalnaya_chastota_processora": 5.3,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 5 250K Plus",
+    "kilkist_yader": 18,
+    "maksimalnaya_chastota_processora": 5.3,
+    "bazova_chastota_procesora": 4.2
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 251HX",
+    "kilkist_yader": 18,
+    "maksimalnaya_chastota_processora": 5.1,
+    "bazova_chastota_procesora": 2.9
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 9 290HX Plus",
+    "kilkist_yader": 24,
+    "maksimalnaya_chastota_processora": 5.5,
+    "bazova_chastota_procesora": 2.7
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core Ultra 7 270HX Plus",
+    "kilkist_yader": 20,
+    "maksimalnaya_chastota_processora": 5.3,
+    "bazova_chastota_procesora": 2.4
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core Ultra 7 258V",
     "kilkist_yader": 8,
     "maksimalnaya_chastota_processora": 4.8,
