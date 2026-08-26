@@ -7410,6 +7410,42 @@
     "bazova_chastota_procesora": 2.1
   },
   {
+    "seriya_procesora | model_procesora": "Intel Core 7 360",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.8,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core 5 330",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core 5 320",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.6,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core 3 305",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core 3 304",
+    "kilkist_yader": 5,
+    "maksimalnaya_chastota_processora": 4.3,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
+    "seriya_procesora | model_procesora": "Intel Core 5 315",
+    "kilkist_yader": 6,
+    "maksimalnaya_chastota_processora": 4.4,
+    "bazova_chastota_procesora": 1.5
+  },
+  {
     "seriya_procesora | model_procesora": "Intel Core 3 201E",
     "kilkist_yader": 4,
     "maksimalnaya_chastota_processora": 4.8,
